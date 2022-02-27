@@ -1,6 +1,21 @@
 # One Game a Month, 2022 attempt
 
-## Dev Ideas
+## Languages to choose from
+- C#
+- Javascript
+- Lua
+- Python
+
+## Engines that could be used
+- [Unity](https://unity.com/)
+- [Godot](https://docs.godotengine.org/en/stable/index.html)
+- [PyGame](https://www.pygame.org/news)
+- [LOVE](https://love2d.org/)
+- [PixiJS](https://github.com/pixijs/pixijs)
+- [Phaser](https://github.com/photonstorm/phaser)
+- Home Grown (Hardest)
+
+## Ideas for games to copy/make
 - [Astroids](https://en.wikipedia.org/wiki/Asteroids_\(video_game\))
 - [Pong](https://en.wikipedia.org/wiki/Pong)
 - [Berzerk](https://en.wikipedia.org/wiki/Berzerk_\(video_game\))
@@ -25,3 +40,4 @@
 - [Gauntlet](https://en.wikipedia.org/wiki/Gauntlet_\(1985_video_game\))
 - [Pole Position](https://en.wikipedia.org/wiki/Pole_Position)
 - [Tapper](https://en.wikipedia.org/wiki/Tapper_\(video_game\))
+- [Missile Command](https://en.wikipedia.org/wiki/Missile_Command)
