@@ -13,6 +13,7 @@
 - [LOVE](https://love2d.org/)
 - [PixiJS](https://github.com/pixijs/pixijs)
 - [Phaser](https://github.com/photonstorm/phaser)
+- [PICO-8](https://www.lexaloffle.com/pico-8.php)
 - Home Grown (Hardest)
 
 ## Ideas for games to copy/make
